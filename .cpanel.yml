@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bilawale/public_html/zeeshannawaz.com/git_test
+    - export DEPLOYPATH=/home/bilawale/zeeshannawaz.com/git_test
     - /bin/cp * $DEPLOYPATH
