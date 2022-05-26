@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bilawale/demo.bilawalelectronics.com/
+    - export DEPLOYPATH=/home/bilawale/test.bilawalelectronics.com/
     - /bin/cp -r * $DEPLOYPATH
