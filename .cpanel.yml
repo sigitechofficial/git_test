@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bilawale/test.zeeshannawaz.com/
+    - /bin/cp * $DEPLOYPATH
